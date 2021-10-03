@@ -14,7 +14,15 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 <img src="https://miro.medium.com/max/670/1*4fIwfKZCHzKGgPanAeWUnA.gif">
 <p>Eaxmple :</p>
 ```cpp
-  towerOfHanoi(4, 'A', 'C', 'B');
+#include <iostream>
+
+void towerOfHanoi(unsigned int number,char start,char destination,char helper);
+
+int main(int argc, char** argv) {
+    towerOfHanoi(4, 'A', 'C', 'B');
+    return 0;
+}
+
 ```
 <p>Output : </p>
 <ul>
