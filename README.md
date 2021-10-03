@@ -10,7 +10,7 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
      a disk can only be moved if it is the uppermost disk on a stack. </li>
 <li> No disk may be placed on top of a smaller disk.</li>
 </ol>
-<b>More explanation : <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi" >Wikipedia</a> </b>
+<b>More explanation : <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi" >Wikipedia</a> </b> <br>
 <img src="https://miro.medium.com/max/670/1*4fIwfKZCHzKGgPanAeWUnA.gif">
 <p>Eaxmple :</p>
 
