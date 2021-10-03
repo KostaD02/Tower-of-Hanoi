@@ -14,15 +14,23 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 <img src="https://miro.medium.com/max/670/1*4fIwfKZCHzKGgPanAeWUnA.gif">
 <p>Eaxmple :</p>
 ```cpp
-  towerOfHanoi(3, 'A', 'C', 'B');
+  towerOfHanoi(4, 'A', 'C', 'B');
 ```
 <p>Output : </p>
 <ul>
-  <li>Move disk 1 from A to C </li>   
-  <li>Move disk 2 from A to B </li>
-  <li>Move disk 1 from C to B </li>      
-  <li>Move disk 3 from A to C </li>      
-  <li>Move disk 1 from B to A </li>
-  <li>Move disk 2 from B to C </li>
-  <li>Move disk 1 from A to C </li>
+<li>Move disk 1 from A to B</li>
+<li>Move disk 2 from A to C</li>
+<li>Move disk 1 from B to C</li>
+<li>Move disk 3 from A to B</li>
+<li>Move disk 1 from C to A</li>
+<li>Move disk 2 from C to B</li>
+<li>Move disk 1 from A to B</li>
+<li>Move disk 4 from A to C</li>
+<li>Move disk 1 from B to C</li>
+<li>Move disk 2 from B to A</li>
+<li>Move disk 1 from C to A</li>
+<li>Move disk 3 from B to C</li>
+<li>Move disk 1 from A to B</li>
+<li>Move disk 2 from A to C</li>
+<li>Move disk 1 from B to C</li>
 </ul>
