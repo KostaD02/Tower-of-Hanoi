@@ -13,6 +13,7 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 <b>More explanation : <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi" >Wikipedia</a> </b>
 <img src="https://miro.medium.com/max/670/1*4fIwfKZCHzKGgPanAeWUnA.gif">
 <p>Eaxmple :</p>
+
 ```cpp
 #include <iostream>
 
@@ -24,6 +25,7 @@ int main(int argc, char** argv) {
 }
 
 ```
+
 <p>Output : </p>
 <ul>
 <li>Move disk 1 from A to B</li>
